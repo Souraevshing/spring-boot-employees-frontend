@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  api: "http://localhost:8080/api/v1/employees",
+  api: "https://employees-mvc-app.up.railway.app/api/v1/employees",
 };
